@@ -1,4 +1,4 @@
-package sorting
+package sort
 
 // Selection sort - http://en.wikipedia.org/wiki/Selection_sort
 func Selection(arr []int) {

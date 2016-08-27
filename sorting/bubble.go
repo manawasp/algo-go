@@ -1,4 +1,4 @@
-package sorting
+package sort
 
 // Bubble sort - http://en.wikipedia.org/wiki/Bubble_sort
 func Bubble(arr []int) {

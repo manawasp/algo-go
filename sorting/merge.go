@@ -1,4 +1,4 @@
-package sorting
+package sort
 
 // Merge sort - http://en.wikipedia.org/wiki/Merge_sort
 func Merge(arr []int) []int {
