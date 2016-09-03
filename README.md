@@ -1,7 +1,7 @@
 algo-go
 =============
 
-`alog-go` - implemetation of different alghoritms with `golang`.
+`algo-go` - implemetation of different alghoritms with `golang`.
 
 Alghoritms
 ----------
