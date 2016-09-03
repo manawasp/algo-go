@@ -13,6 +13,7 @@ Alghoritms
   * Merge sort
   * Quick sort
   * Shell sort
+  * Cocktail sort
 
 ###### not implemented
 
