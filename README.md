@@ -12,9 +12,9 @@ Alghoritms
   * Selection sort
   * Merge sort
   * Quick sort
+  * Shell sort
 
 ###### not implemented
 
   * Heap sort
-  * Shell sort
   * Counting sort
