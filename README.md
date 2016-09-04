@@ -19,3 +19,12 @@ Alghoritms
 
   * Heap sort
   * Counting sort
+
+#### Searching
+
+  * Minimax
+  * Negamax
+
+###### not implemented
+
+  * AlphaBeta
