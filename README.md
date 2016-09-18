@@ -14,11 +14,11 @@ Alghoritms
   * Quick sort
   * Shell sort
   * Cocktail sort
+  * Counting sort
 
 ###### not implemented
 
   * Heap sort
-  * Counting sort
 
 #### Searching
 
